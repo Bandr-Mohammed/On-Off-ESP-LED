@@ -26,9 +26,18 @@ Then edit the following in the code:
 - In {void setup} add the following code: `pinMode(LED_BUILTIN, OUTPUT);`
 - Under line 89: add the following if-else statement: `if (payload == 1) {digitalWrite(LED_BUILTIN, HIGH); delay(1000);} else {digitalWrite(LED_BUILTIN, LOW);  delay(1000);}`
 
+* Important note: Line 51: Changed the value of baud in `Serial.begin` from 115200 to 9600 in order to display the content of the txt file in the serial monitor.
+
 
 The code should be looking like so:
 
 ![Image ALT](https://github.com/Bandr-Mohammed/On-Off-ESP-LED/blob/main/Screenshot%20(65).png?raw=true)
 
 ![Image ALT](https://github.com/Bandr-Mohammed/On-Off-ESP-LED/blob/main/Screenshot%20(66).png?raw=true)
+
+
+
+
+## Result
+
+
