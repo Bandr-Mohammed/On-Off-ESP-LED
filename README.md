@@ -24,5 +24,5 @@ Then edit the following in the code:
 - Line 62: (SSID) and (PASSWORD) are parameters for personal wifi that the ESP connects to. (can be a personal hotspot too)
 - Line 74: Add the link to the txt file made in `infinityfree`'s file manager.
 - In {void setup} add the following code: `pinMode(LED_BUILTIN, OUTPUT);`
-- In {void loop} add the following if-else statment: `if (payload == 1) {digitalWrite(LED_BUILTIN, HIGH); delay(1000);} else {digitalWrite(LED_BUILTIN, LOW);  delay(1000);}
+- In {void loop} add the following if-else statment: `if (payload == 1) {digitalWrite(LED_BUILTIN, HIGH); delay(1000);} else {digitalWrite(LED_BUILTIN, LOW);  delay(1000);}`
 
