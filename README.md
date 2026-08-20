@@ -17,4 +17,5 @@ Writing and editing the code that would be uploaded to the ESP.
 
 Opening `Arduino IDE` and getting the initial code, like so:
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/On-Off-ESP-LED/blob/main/Screenshot%20(64).png?raw=true)
+
