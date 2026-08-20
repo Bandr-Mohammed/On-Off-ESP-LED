@@ -9,3 +9,12 @@ Creating a txt file in the file manager of `infinityfree` that would hold the va
 
 The value is set to `1` or ON for now
 ![Image ALT](https://github.com/Bandr-Mohammed/On-Off-ESP-LED/blob/main/Screenshot%20(63).png?raw=true)
+
+
+## Step two: Coding and uploading
+
+Writing and editing the code that would be uploaded to the ESP.
+
+Opening `Arduino IDE` and getting the initial code, like so:
+
+![Image ALT]()
