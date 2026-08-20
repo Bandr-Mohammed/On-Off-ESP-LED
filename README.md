@@ -40,4 +40,21 @@ The code should be looking like so:
 
 ## Result
 
+After verifying and uploading the code to the ESP, this was the result:
 
+- When the value is `1`:
+  
+![Image ALT](https://github.com/Bandr-Mohammed/On-Off-ESP-LED/blob/main/Screenshot%20(72).png?raw=true)
+
+![Image ALT](https://github.com/Bandr-Mohammed/On-Off-ESP-LED/blob/main/Screenshot%20(69).png?raw=true)
+
+![Image ALT](https://github.com/Bandr-Mohammed/On-Off-ESP-LED/blob/main/Pic%202.jpeg?raw=true)
+
+
+- When the value is `0`:
+  
+![Image ALT](https://github.com/Bandr-Mohammed/On-Off-ESP-LED/blob/main/Screenshot%20(70).png?raw=true)
+
+![Image ALT](https://github.com/Bandr-Mohammed/On-Off-ESP-LED/blob/main/Screenshot%20(71).png?raw=true)
+
+![Image ALT](https://github.com/Bandr-Mohammed/On-Off-ESP-LED/blob/main/Pic%201.jpeg?raw=true)
