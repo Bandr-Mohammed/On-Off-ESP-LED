@@ -29,6 +29,6 @@ Then edit the following in the code:
 
 The code should be looking like so:
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/On-Off-ESP-LED/blob/main/Screenshot%20(65).png?raw=true)
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/On-Off-ESP-LED/blob/main/Screenshot%20(66).png?raw=true)
