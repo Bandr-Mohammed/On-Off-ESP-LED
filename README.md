@@ -26,3 +26,9 @@ Then edit the following in the code:
 - In {void setup} add the following code: `pinMode(LED_BUILTIN, OUTPUT);`
 - Under line 89: add the following if-else statement: `if (payload == 1) {digitalWrite(LED_BUILTIN, HIGH); delay(1000);} else {digitalWrite(LED_BUILTIN, LOW);  delay(1000);}`
 
+
+The code should be looking like so:
+
+![Image ALT]()
+
+![Image ALT]()
